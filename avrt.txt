@@ -1,0 +1,236 @@
+avrt.txt
+
+AVRT là một phương pháp tiếp cận trực tiếp và hiệu quả để vượt qua các chứng nghiện, được giới thiệu bởi Jack Trimpey trong tác phẩm *Rational Recovery*. Phương pháp này tập trung vào việc nhận diện và đối đầu với những suy nghĩ và thôi thúc thúc đẩy hành vi nghiện, được gọi là "Tiếng Nói Gây Nghiện" (Addictive Voice - AV).
+
+Để minh họa rõ ràng về AVRT, tác giả đã trình bày một đoạn hội thoại thực tế với một người phụ nữ tên Virginia, người đã gọi điện thoại đến văn phòng Rational Recovery vào năm 1994. Các cuộc trò chuyện được trình bày trong cuốn sách này là sự tổng hợp từ các đoạn hội thoại có thật, không hề có sự thêm thắt hay hư cấu.
+
+## Cuộc Hội Thoại Mở Đầu: "Vâng, Virginia, Có Một Phương Pháp Chữa Khỏi Chứng Nghiện Rượu"
+
+> "Tôi vừa mới ra khỏi một chương trình phục hồi chức năng tại bệnh viện. Tôi đoán nó chẳng giúp ích gì cho tôi," cô ấy nói. "Tôi chỉ giữ được tỉnh táo trong mười ngày."
+>
+> Tôi hỏi, "Tại sao cô lại tham gia chương trình đó?"
+>
+> "Bởi vì tôi là một người nghiện rượu," cô ấy nói. "Tình trạng của tôi rất tệ, và tôi cần giúp đỡ để cai rượu. Tôi ghét cuộc sống như thế này, nhưng mọi thứ đều không hiệu quả. Tôi đã tham gia hai trung tâm phục hồi khác trong ba năm qua, và tôi đã tham dự rất nhiều cuộc họp hỗ trợ, nhưng tôi luôn quay lại uống rượu."
+>
+> _Lưu ý rằng cô ấy tự mô tả mình như một nạn nhân, uống rượu một cách khó hiểu mặc dù đã được điều trị nhiều, và cô ấy mô tả cuộc sống của mình đau khổ như thế nào._
+>
+> "Vậy, kế hoạch của cô lần này là gì?" Tôi hỏi.
+>
+> "Đó là lý do tại sao tôi gọi cho anh bây giờ. Tôi vẫn cần giúp đỡ," cô ấy trả lời.
+>
+> Tôi hỏi thêm một chút. "Để tôi hỏi lại. Kế hoạch của cô liên quan đến việc sử dụng rượu trong tương lai là gì?"
+>
+> Cô ấy bối rối. "Kế hoạch?"
+>
+> "Vâng, Virginia," tôi đáp. "Kế hoạch của cô là gì? Cô sẽ uống thêm rượu nữa? Hay cô sẽ bỏ rượu?"
+>
+> Tôi đợi trong khi cô ấy suy nghĩ. Trong phương pháp phục hồi kiểu Mỹ, ý tưởng lên kế hoạch bỏ rượu được coi là không thực tế, thường là một dấu hiệu của bệnh nghiện rượu.
+>
+> Cuối cùng, cô ấy trả lời, "Tôi không có kế hoạch nào cả, theo cách này hay cách khác."
+>
+> Tôi hỏi, "Cô có thấy điều đó kỳ lạ không?"
+>
+> "Tôi không chắc anh có ý gì," cô ấy nói.
+>
+> Tôi tiếp tục vẽ ra một bức tranh khá kỳ lạ. "Ý tôi là, Virginia, cô đã ở trong ba trung tâm phục hồi chức năng đắt tiền trong ba năm qua, và cô nói cô ghét sống trong xiềng xích của sự nghiện ngập. Nhưng khi tôi hỏi kế hoạch của cô cho việc sử dụng rượu trong tương lai là gì, cô lại không có câu trả lời. Điều đó chẳng kỳ lạ sao?"
+>
+> _Mặc dù việc thiếu bất kỳ kế hoạch nào để bỏ rượu là một đặc điểm chính của chứng nghiện, những người nghiện không nhận thấy rằng một kế hoạch bỏ rượu sẽ có ích._
+>
+> Bực bội, cô ấy nói, "Chà, nếu tôi biết điều đó, tôi đã không gặp vấn đề này rồi, đúng không?"
+>
+> Tiếp tục, tôi nói, "Tất nhiên là không, đó chính xác là lý do tại sao tôi hỏi câu hỏi thẳng thắn này. Cô đang nghiện rượu nghiêm trọng, điều mà cô nói đang hủy hoại cuộc đời cô. Cô gọi cuộc gọi này để tìm cách chấm dứt cơn nghiện đó, đúng không?"
+>
+> "Chà, tôi nghĩ vậy," cô ấy nói, "nhưng anh làm như thể tôi chỉ cần ước vấn đề này biến mất và tiếp tục như thể tôi không phải là một người nghiện rượu."
+>
+> _Lưu ý sự đối kháng đối với bất kỳ ai gợi ý rằng người ta chỉ cần bỏ rượu. Bạn sẽ học được nhiều hơn về phản ứng phổ biến này._
+>
+> Tôi tiếp tục, "Tháng trước cô đã học được gì trong quá trình phục hồi chức năng tại bệnh viện?"
+>
+> "Học?" cô ấy hỏi, ngạc nhiên. "Ồ, tôi học được rằng tôi sẽ không bao giờ thực sự khỏi chứng nghiện rượu của mình vì đó là một bệnh mãn tính. Tôi sẽ phải tham dự các cuộc họp suốt quãng đời còn lại, và tái nghiện là một phần bình thường của quá trình phục hồi. Tôi có thể nhận ra các dấu hiệu tái nghiện, đặc biệt là sự phủ nhận, bằng cách tìm kiếm phản hồi từ người khác. Nếu tôi không tham dự các cuộc họp, có lẽ tôi đang trong quá trình tái nghiện. Tôi vẫn còn rất nhiều việc phải làm để kết nối với Sức Mạnh Cao Cả của mình, và tôi gặp khó khăn với bước đầu tiên, đó là bước bất lực. Tôi vẫn gặp một số khó khăn với điều đó, và vẫn còn một số vấn đề với bản kiểm kê cá nhân mà tôi sẽ phải giải quyết. Tôi không có sự thanh thản, và đời sống tinh thần của tôi rất thấp. Tôi đã có các triệu chứng cai nghiện cấp tính sau giai đoạn cấp tính trong bệnh viện, nhưng tôi không thể hiểu chúng là gì vì tôi cảm thấy bình thường. Cuộc sống dường như bất khả thi khi tôi nhìn quá xa về phía trước, và đó là điều khiến tôi sợ hãi, vì vậy tôi cố gắng sống từng ngày một. Tôi đọc đi đọc lại cuốn Sách Lớn, bởi vì họ nói tôi cuối cùng sẽ hiểu ý nghĩa của các bước. Đó, đó có phải là ý của anh khi hỏi tôi đã học được gì không?"
+>
+> _Cô ấy hoàn toàn tham gia vào các hình thức điều trị, và cô ấy diễn đạt rõ ràng khi thảo luận về đời sống nội tâm của mình với người khác. Rất phổ biến đối với những người "đang phục hồi" trở nên quá tập trung vào bản thân, bận tâm đến các vấn đề tinh thần và tâm lý, và nói về bản thân như thể họ là những đối tượng đang vượt qua một chướng ngại vật._
+>
+> Tôi thẳng thắn với Virginia. "Vâng. Cô vừa nói với tôi rằng cô không có kế hoạch phục hồi khỏi chứng nghiện rượu. Cô dự định sẽ vật lộn với cơn nghiện của mình trong nhiều năm tới, thử nghiệm với những ý tưởng về Sức Mạnh Cao Cả, chơi trò chơi với ý tưởng bất lực, cố gắng chứng minh với bản thân rằng cô là một người tử tế, và tham dự những cuộc họp khiến cô phát chán. Và, rất quan trọng, Virginia, cô dự định sẽ tái nghiện bất cứ khi nào cô cảm thấy thích."
+>
+> Một sự im lặng kéo dài sau đó. Cuối cùng, cô ấy khẽ nói, "Điều đó hoàn toàn đúng."
+>
+> _Bạn có thể thắc mắc tại sao cô ấy không tức giận trước sự đối đầu này. Đó là bởi vì cô ấy có hai ý nghĩ về chứng nghiện và sự phục hồi. Một mặt, cô ấy muốn tiếp tục uống rượu, nhưng mặt khác, cô ấy muốn giải quyết vấn đề của mình. Hơn nữa, tôi không gợi ý cô ấy thực sự bỏ rượu, mà chỉ mô tả cách cô ấy vật lộn trong quá trình phục hồi._
+>
+> Cô ấy tiếp tục, "Và tôi cảm thấy muốn tự tử khi nghĩ đến điều đó."
+>
+> "Cô đã nghĩ đến việc tự tử trong một thời gian khá lâu rồi phải không?"
+>
+> _Đây là một phỏng đoán an toàn từ phía tôi. Ý nghĩ tự tử rất phổ biến ở những người nghiện, mặc dù họ hiếm khi hành động theo những ý nghĩ đó._
+>
+> "Vâng," cô ấy thì thầm.
+>
+> "Nhưng, rõ ràng, cô làm điều gì đó khác thay vì thế. Cô làm gì mỗi khi cô nghĩ đến việc tự tử vì vấn đề uống rượu của mình?"
+>
+> "Tôi say."
+>
+> _Ý nghĩ tự tử phục vụ một mục đích quan trọng là biện minh cho việc uống rượu._
+>
+> "Và cô không có kế hoạch ngừng uống rượu. Điều đó chẳng kỳ lạ sao, Virginia? Có ai ở bệnh viện gợi ý cô ngừng uống rượu không?"
+>
+> "Vâng, dược sĩ nói tôi không nên trộn rượu với thuốc chống trầm cảm của mình."
+>
+> "Vậy ít nhất cũng có ai đó ngoài tôi nghĩ rằng cô có thể chọn không uống rượu. Nhưng cô nghĩ sao? Cô có muốn lên kế hoạch ngừng uống rượu, mãi mãi không?"
+>
+> Lại bực bội, cô ấy nói, "Thật không thực tế khi tôi chỉ nói rằng tôi sẽ không uống nữa. Thứ này đã hủy hoại những người khác trong gia đình tôi - cha tôi và hai anh trai. Đó là một căn bệnh di truyền trong gia đình, và đó là một phần của những gì đang xảy ra với tôi. Anh dường như không hiểu. Anh đã bao giờ nghiện thứ gì chưa?"
+>
+> _Những người nghiện sẽ thao túng những người chưa bao giờ nghiện, một cách khéo léo và không ngừng, và họ sẽ từ chối lời khuyên mà họ không thích nếu nó đến từ một người chưa bao giờ nghiện._
+>
+> "Vâng, rượu, trong nhiều năm. Và tôi cũng từng tin vào những điều vô nghĩa mà cô vừa nói với tôi trong vài phút qua. Tôi nghĩ mình mắc một căn bệnh khiến tôi uống rượu, và tôi nghĩ mình sẽ phải uống rượu mãi mãi. Nhưng cuối cùng tôi đã tự chữa khỏi bằng cách bỏ rượu."
+>
+> Cô ấy cãi lại, "Nghĩ rằng có một phương pháp chữa trị là sự phủ nhận! Chứng nghiện rượu là không thể chữa khỏi."
+>
+> _Có một cuốn sách nhỏ từ Hazelden Publications, một nhà xuất bản theo hướng AA, có tựa đề, "Đừng Nói Với Tôi Rằng Tôi Không Mắc Bệnh!" Một bức ảnh cho thấy một người đàn ông với vẻ mặt kiên quyết, như thể cuộc sống của anh ta phụ thuộc vào việc tin rằng nghiện rượu là một căn bệnh. Những người đang điều trị nghiện được dạy rằng việc thách thức khái niệm bệnh tật là nguy hiểm và có thể dẫn đến tử vong._
+>
+> "Ồ vâng, Virginia," tôi giải thích. "Có một phương pháp chữa khỏi chứng nghiện rượu, và nó đã có từ rất lâu rồi."
+>
+> "Một phương pháp chữa trị? Anh nói một phương pháp chữa khỏi căn bệnh nghiện rượu? Các chuyên gia tư vấn tại bệnh viện nói chúng tôi chỉ có thể kiểm soát nó. Ý tưởng về một phương pháp chữa trị có phải là một suy nghĩ nguy hiểm không?"
+>
+> "Chà, nếu cô nghĩ rằng 'chữa khỏi' có nghĩa là cô có thể tiếp tục uống rượu, thì có lẽ vậy."
+>
+> Virginia cuối cùng hỏi, "Vậy, phương pháp chữa trị là gì?"
+>
+> "Sự kiêng khem," tôi trả lời.
+>
+> "Ai cũng có thể là một người nghiện khô khan," cô ấy nói, giờ nghe có vẻ đã được chuẩn bị kỹ lưỡng. Để ngăn cản mọi người cam kết kiêng khem vĩnh viễn, điều này sẽ dẫn đến sự phục hồi ngay lập tức và hoàn toàn, phong trào nhóm phục hồi dự đoán rằng những người theo cách tiếp cận đó sẽ tan rã hoặc bùng nổ. "Nghiện khô khan" là một tình trạng hư cấu được cho là ảnh hưởng đến những người nghiện rượu chỉ đơn thuần là bỏ rượu và không chịu khuất phục trước lối sống 12 bước. Tình trạng này, được gọi là "bệnh nghiện", được suy ra từ bất kỳ sự bất thường hoặc không hoàn hảo nào có thể được nhận thấy ở những người mới kiêng khem, và nó được cho là tiến triển và gây tử vong. Những người nghiện khô khan, người ta nói, gần như chắc chắn sẽ tái nghiện, và nếu họ không tái nghiện, họ sẽ không bao giờ hạnh phúc. Khái niệm nghiện khô khan hướng mọi người tránh xa giải pháp rõ ràng nhất, hiệu quả nhất, không rủi ro và lành mạnh nhất cho bất kỳ chứng nghiện chất nào - một cam kết ngay lập tức về sự kiêng khem vĩnh viễn.
+>
+> Tôi ngắt lời, "Khoan đã. Để tôi hỏi cô, cuộc sống của cô sẽ như thế nào nếu cô không bao giờ uống rượu nữa?"
+>
+> "Tôi không thể hình dung được điều đó sẽ như thế nào," cô ấy nói.
+>
+> "Sẽ không," tôi sửa lại. "Cô sẽ không, bởi vì cô dự định sẽ uống rượu mãi mãi. Nhưng cứ tiếp tục đi, Virginia, hãy thử hình dung xem. Cô sẽ làm gì hôm nay nếu cô không uống rượu trong vài năm qua?"
+>
+> "Tôi sẽ kinh doanh với tư cách là một nhà thiết kế đồ họa ở châu Âu, nơi bạn trai cũ của tôi sống. Anh ấy sẽ chấp nhận tôi, nhưng không phải trong tình trạng này." Cô ấy kể lại việc vị hôn phu của mình cuối cùng đã từ bỏ mối quan hệ của họ vì cô ấy tái nghiện nhiều lần.
+>
+> "Vậy hôm nay chỉ là kết quả của việc uống rượu trong quá khứ của cô, và cô có thể thấy rằng tương lai của cô, tương tự như vậy, sẽ là kết quả của bất kỳ việc uống rượu nào nữa. Nhưng, cô có muốn điều gì tốt hơn những gì đang xảy ra bây giờ không?"
+>
+> "Vâng, rất nhiều. Đó là lý do tại sao tôi gọi."
+>
+> "Vậy thì, cô nghĩ sao về việc lên kế hoạch không bao giờ uống rượu nữa?"
+>
+> Cô ấy do dự, "Tôi không thể. Nó khiến tôi cảm thấy quá lo lắng. Tôi không thể."
+>
+> _Cô ấy biết tôi không đùa, và cô ấy nhận ra rằng cô ấy có khả năng bỏ rượu bất cứ lúc nào cô ấy chọn. Nếu không phải vậy, cô ấy sẽ không cảm thấy lo lắng hoặc coi trọng đề nghị của tôi._
+>
+> "Rất tốt, Virginia," tôi nói. "Cô thực sự đang làm rất tốt những gì chúng tôi làm ở Rational Recovery. Ngay bây giờ, cô đang cảm thấy cơn nghiện của mình. Và cô đang có những suy nghĩ mâu thuẫn về việc sử dụng rượu. Cô đang lưỡng lự về việc uống rượu, điều mà tất cả những người nghiện đều có chung. Một mặt, cô muốn ngừng uống rượu và tiếp tục cuộc sống của mình, nhưng mặt khác, cô lại sợ hãi việc từ bỏ rượu. Phần đó trong cô muốn uống rượu mãi mãi."
+>
+> _Virginia cảm thấy cô ấy đang hiểu ra điều gì đó lần đầu tiên, một điều vô cùng quan trọng. Sự hiểu biết ban đầu này sẽ phát triển nhanh chóng, xây dựng trên chính nó và dẫn đến sự kiêng khem suốt đời._
+>
+> "Vâng!" cô ấy thốt lên. "Anh lại nói trúng phóc rồi! Ở một mức độ nào đó, tôi thực sự muốn vật lộn với cơn nghiện này mãi mãi, chơi trò chơi phục hồi và tái nghiện thỉnh thoảng, nhưng tôi cũng muốn vượt qua nó và tiếp tục cuộc sống của mình. Tôi chán ngấy việc ốm yếu và mệt mỏi. Ngay bây giờ, tôi có một khao khát mạnh mẽ muốn bỏ rượu vĩnh viễn. Nhưng tôi sợ cảm nhận nó quá nhiều. Có lẽ tôi đang phủ nhận - phủ nhận rằng bệnh của tôi là mãn tính, không thể chữa khỏi và tiến triển. Nếu tôi tái nghiện lần nữa, hy vọng của tôi sẽ tan vỡ, và tôi sẽ còn chán nản hơn bao giờ hết. Nhưng tôi thực sự cảm thấy cả hai điều. Và tôi thực sự muốn khỏe hơn. Ngay bây giờ!"
+>
+> _Cô ấy nhận ra rằng mình có hai ý nghĩ. Có tiếng nói muốn khỏe hơn, và có tiếng nói của cơn nghiện, muốn cô ấy suy yếu trong quá trình phục hồi. Hầu hết những người gọi đến Rational Recovery đều phải đối mặt với tình huống khó xử tương tự, và họ thường rất hào hứng trước viễn cảnh về một phương pháp chữa trị thực sự, ngay lập tức khỏi những tàn phá của cơn nghiện._
+>
+> Vậy là tôi đưa ra cho Virginia một đề nghị mà cô ấy khó có thể từ chối.
+>
+> "Được rồi," tôi nói, "cô đồng ý rồi đấy. Nếu cô muốn dứt bỏ cơn nghiện của mình vĩnh viễn, đây là kế hoạch. Sẵn sàng chưa?"
+>
+> "Được rồi, cứ nói đi."
+>
+> "Hãy nghĩ ngay bây giờ về ý tưởng không bao giờ uống rượu nữa. Cô có sẵn lòng với điều đó không?"
+>
+> "Tôi sẵn lòng với điều đó."
+>
+> "Tốt. Nhưng có một tiếng nói khác trong đầu cô, và nó đang nói điều gì đó khác. Nó nói gì?"
+>
+> Virginia im lặng rồi nói, "Một tiếng nói nói rằng, 'Bạn không thể làm điều đó. Bạn biết bạn sẽ uống lại. Bạn обречен sống một cuộc đời uống rượu. Mọi thứ không thể khác được.'"
+>
+> Tôi giải thích, "Những gì cô đang nghe thấy trong đầu chính là những gì chúng tôi gọi là Tiếng Nói Gây Nghiện. Đó là phần trong suy nghĩ của chính cô liên tục tranh luận để uống thêm rượu. Nó nói với cô rằng thật không thể để cô đơn giản quyết định bỏ rượu một lần và mãi mãi. Cô hiểu không?"
+>
+> "Giống như có hai con người trong tôi sao?" cô ấy hỏi.
+>
+> "Gần đúng. Chỉ có một mình cô thôi, nhưng cô đang có hai ý nghĩ về việc bỏ rượu. Cô có thể lên kế hoạch không bao giờ uống rượu nữa, nhưng Tiếng Nói Gây Nghiện của cô lại có những kế hoạch khác. Cô có thể học cách nhận ra Tiếng Nói Gây Nghiện của chính mình như một thứ gì đó không hoàn toàn là cô. Chắc chắn đó là những suy nghĩ của cô, nhưng chúng không phải là cô."
+>
+> "Ồ, cái tiếng nói đó! Ý anh là cái tiếng nói đang bảo tôi ngay bây giờ hãy uống một ly khi chúng ta gác máy sao?"
+>
+> "Cô đang làm được đấy, Virginia! Cô đang thực hành những gì chúng tôi gọi là Kỹ Thuật Nhận Diện Tiếng Nói Gây Nghiện, chỉ sau vài phút nói chuyện về nó. Trong Rational Recovery, chúng tôi gọi tắt là 'AVRT'. Các chữ cái gần như đánh vần từ 'avert' (ngăn chặn). Cô có thể hoàn toàn phục hồi khỏi cơn nghiện của mình trong một thời gian tương đối ngắn bằng cách làm những gì cô vừa làm."
+
+## Giải Thích Chi Tiết về AVRT
+
+Từ đoạn hội thoại trên, có thể thấy AVRT tập trung vào việc:
+
+1.  **Nhận diện Tiếng Nói Gây Nghiện (AV):** Đây là những suy nghĩ, cảm xúc và thôi thúc xuất hiện trong đầu người nghiện, thúc đẩy họ sử dụng chất gây nghiện. AV thường ngụy trang dưới nhiều hình thức, có thể là những lời biện minh, những lời hứa hẹn, hoặc những cảm xúc tiêu cực cần được xoa dịu bằng chất gây nghiện.
+2.  **Tách biệt bản thân khỏi AV:** AVRT dạy người nghiện cách nhận ra rằng những suy nghĩ và thôi thúc này không phải là "bản chất thật" của họ, mà là sản phẩm của cơn nghiện. Bằng cách gọi nó là "Tiếng Nói Gây Nghiện" hoặc "Con Quái Vật" (Beast), người nghiện tạo ra một khoảng cách tâm lý giữa bản thân và những thôi thúc tiêu cực này.
+3.  **Đối đầu và bác bỏ AV:** Khi đã nhận diện được AV, người nghiện học cách đối đầu trực diện với nó, bác bỏ những lý lẽ và lời hứa hẹn mà nó đưa ra. AVRT nhấn mạnh rằng AV chỉ muốn một điều duy nhất: sự thỏa mãn tức thời từ chất gây nghiện, và nó không quan tâm đến hậu quả lâu dài hay những giá trị thực sự của người nghiện.
+4.  **Quyết tâm kiêng khem vĩnh viễn:** AVRT khuyến khích người nghiện đưa ra một quyết định dứt khoát và không lay chuyển về việc không bao giờ sử dụng chất gây nghiện nữa. Từ khóa quan trọng trong AVRT là "Không bao giờ" (Never). Việc chấp nhận ý tưởng "Tôi sẽ không bao giờ..." giúp loại bỏ sự lưỡng lự và những cuộc tranh luận nội tâm liên tục.
+
+## Các Điểm Quan Trọng của AVRT
+
+* **AV là kẻ thù:** AVRT xem Tiếng Nói Gây Nghiện như một kẻ thù bên trong, một "Con Quái Vật" chỉ quan tâm đến việc thỏa mãn cơn nghiện và không hề đoái hoài đến hạnh phúc hay sự sống của người nghiện.
+* **AV sử dụng đại từ "Tôi":** AV thường sử dụng đại từ "Tôi" để ngụy trang và khiến người nghiện tin rằng đó là suy nghĩ thật của họ ("Tôi muốn một ly"). AVRT khuyến khích người nghiện thay đổi cách gọi thành "Nó muốn một ly" để tạo khoảng cách.
+* **AV rất xảo quyệt:** AV có thể sử dụng mọi lý lẽ, mọi cảm xúc, cả tích cực lẫn tiêu cực, để đạt được mục đích. Nó có thể nhớ lại những kỷ niệm vui vẻ liên quan đến việc sử dụng chất gây nghiện và bỏ qua những hậu quả tiêu cực.
+* **Sự phục hồi là một sự kiện:** AVRT không xem sự phục hồi là một quá trình lâu dài mà là một sự kiện, một quyết định dứt khoát tại một thời điểm cụ thể ("ngay bây giờ").
+* **Kiêng khem là phương pháp chữa trị:** AVRT khẳng định rằng sự kiêng khem hoàn toàn và vĩnh viễn là phương pháp duy nhất để chữa khỏi chứng nghiện.
+
+## Tóm lại
+
+AVRT là một kỹ thuật mạnh mẽ giúp người nghiện nhận ra và đối đầu với những thôi thúc nghiện ngập. Bằng cách tách biệt bản thân khỏi "Tiếng Nói Gây Nghiện" và đưa ra quyết định kiêng khem dứt khoát, người nghiện có thể giành lại quyền kiểm soát cuộc sống của mình và đạt được sự phục hồi hoàn toàn. Phương pháp này nhấn mạnh vai trò của lý trí và ý chí cá nhân trong việc vượt qua chứng nghiện, trái ngược với các phương pháp truyền thống thường tập trung vào khái niệm "bệnh tật" và sự "bất lực" của người nghiện.
+
+
+Tuyệt vời! Để giúp những người đang vật lộn với chứng nghiện áp dụng phương pháp AVRT, tôi sẽ cung cấp một hướng dẫn chi tiết từng bước như sau:
+
+***
+
+# Hướng Dẫn Chi Tiết Cách Áp Dụng AVRT
+
+Phương pháp AVRT tập trung vào việc nhận diện, tách biệt và đối đầu với "Tiếng Nói Gây Nghiện" (Addictive Voice - AV). Dưới đây là các bước cụ thể để áp dụng AVRT:
+
+**Bước 1: Nhận Diện Tiếng Nói Gây Nghiện (AV)**
+
+* **Lắng nghe những suy nghĩ thôi thúc:** Hãy chú ý đến những suy nghĩ, cảm xúc hoặc thôi thúc bất chợt xuất hiện trong đầu bạn, đặc biệt là những suy nghĩ liên quan đến việc sử dụng chất gây nghiện.
+* **Xác định mục đích của suy nghĩ:** Hãy tự hỏi: "Mục đích thực sự của suy nghĩ này là gì?". Thông thường, AV sẽ cố gắng thuyết phục bạn rằng việc sử dụng chất gây nghiện sẽ mang lại sự thoải mái, niềm vui, hoặc giúp bạn giải quyết vấn đề.
+* **Nhận ra các hình thức ngụy trang:** AV rất xảo quyệt và có thể xuất hiện dưới nhiều hình thức khác nhau, chẳng hạn như:
+    * **Lời biện minh:** "Tôi chỉ cần một chút thôi để thư giãn."
+    * **Lời hứa hẹn:** "Tôi sẽ chỉ dùng hôm nay thôi, ngày mai tôi sẽ dừng lại."
+    * **Cảm xúc tiêu cực:** "Tôi đang cảm thấy rất tệ, tôi cần một thứ gì đó để làm dịu đi."
+    * **Kỷ niệm tích cực:** "Lần trước tôi dùng nó vui vẻ như thế nào."
+    * **Sự hợp lý hóa:** "Mọi người xung quanh tôi đều làm vậy, có gì đâu."
+* **Lưu ý đến thời điểm xuất hiện:** AV thường xuất hiện khi bạn cảm thấy căng thẳng, buồn chán, cô đơn, hoặc khi bạn ở trong những tình huống gợi nhớ đến việc sử dụng chất gây nghiện.
+
+**Bước 2: Tách Biệt Bản Thân Khỏi AV**
+
+* **Gọi tên AV:** Hãy đặt cho "Tiếng Nói Gây Nghiện" một cái tên cụ thể. Jack Trimpey thường gọi nó là "Con Quái Vật" (The Beast). Bạn có thể chọn bất kỳ tên nào mà bạn cảm thấy phù hợp và giúp bạn nhận ra nó như một thứ gì đó tách biệt khỏi "bản chất thật" của bạn. Ví dụ: "Con Quỷ Nghiện", "Tiếng Nói Xảo Trá", v.v.
+* **Sử dụng ngôi thứ ba:** Khi bạn nhận ra một suy nghĩ thôi thúc, hãy thử nói thầm hoặc nghĩ thầm về nó bằng ngôi thứ ba. Thay vì "Tôi muốn một ly", hãy nghĩ "Nó muốn một ly" hoặc "[Tên bạn đặt] đang nghĩ đến việc sử dụng [chất gây nghiện]". Điều này giúp bạn tạo ra một khoảng cách tâm lý.
+* **Nhận ra rằng đó không phải là "bạn":** Hãy tự nhủ rằng những suy nghĩ và thôi thúc này là sản phẩm của cơn nghiện, không phải là mong muốn thực sự của bạn khi bạn tỉnh táo và lý trí.
+
+**Bước 3: Đối Đầu và Bác Bỏ AV**
+
+* **Không tranh luận, chỉ nhận diện:** Mục tiêu không phải là cố gắng tranh cãi hoặc phân tích tại sao AV lại xuất hiện. Đơn giản chỉ cần nhận diện nó và mục đích của nó.
+* **Nhắc nhở về hậu quả:** Hãy nhớ lại những hậu quả tiêu cực mà việc sử dụng chất gây nghiện đã gây ra cho bạn và những người xung quanh. AV thường cố tình bỏ qua hoặc giảm nhẹ những điều này.
+* **Khẳng định quyết tâm:** Hãy mạnh mẽ khẳng định quyết tâm không bao giờ sử dụng chất gây nghiện nữa. Nói với chính mình (hoặc với AV): "Tôi sẽ không bao giờ làm điều đó nữa."
+* **Không thỏa hiệp:** AV sẽ cố gắng đưa ra những lời đề nghị thỏa hiệp ("Chỉ một lần thôi", "Chỉ một chút thôi"). Hãy kiên quyết bác bỏ mọi sự thỏa hiệp.
+* **Tập trung vào giá trị thực:** Hãy hướng sự tập trung của bạn vào những giá trị thực sự trong cuộc sống mà bạn muốn theo đuổi khi không còn nghiện ngập, chẳng hạn như sức khỏe, gia đình, sự nghiệp, và các mối quan hệ tốt đẹp.
+
+**Bước 4: Đưa Ra Quyết Định Kiêng Khem Vĩnh Viễn**
+
+* **Quyết định "Không bao giờ":** Đây là yếu tố then chốt của AVRT. Hãy đưa ra một quyết định dứt khoát và không lay chuyển rằng bạn sẽ không bao giờ sử dụng chất gây nghiện nữa.
+* **Chấp nhận sự khó chịu ban đầu:** Ban đầu, việc đối đầu với AV có thể gây ra sự khó chịu, lo lắng hoặc bứt rứt. Hãy chấp nhận những cảm xúc này như một phần của quá trình và biết rằng chúng sẽ dần qua đi.
+* **Tập trung vào hiện tại:** Thay vì lo lắng về tương lai xa xôi, hãy tập trung vào việc duy trì sự tỉnh táo trong từng khoảnh khắc, từng ngày.
+* **Tìm kiếm sự hỗ trợ (nếu cần):** Mặc dù AVRT là một phương pháp tự lực, bạn vẫn có thể tìm kiếm sự hỗ trợ từ bạn bè, gia đình hoặc các nhóm hỗ trợ nếu bạn cảm thấy cần thiết. Tuy nhiên, hãy đảm bảo rằng những nguồn hỗ trợ này hiểu và ủng hộ phương pháp AVRT.
+
+**Ví Dụ Minh Họa:**
+
+Giả sử bạn đang cố gắng cai thuốc lá. Một lúc nào đó trong ngày, bạn có thể nghe thấy AV nói:
+
+* "Tôi căng thẳng quá, một điếu thuốc sẽ giúp tôi thư giãn."
+* "Chỉ một điếu thôi, không sao đâu."
+* "Mọi người xung quanh đều hút thuốc, tôi cũng nên hút một điếu để hòa nhập."
+
+Khi bạn nhận ra những suy nghĩ này, hãy:
+
+1.  **Nhận diện:** Đây là "Tiếng Nói Gây Nghiện" đang cố gắng thuyết phục bạn hút thuốc.
+2.  **Tách biệt:** Gọi nó là "Con Quỷ Thuốc Lá" hoặc bất kỳ tên nào bạn thích. Nhận ra rằng "Nó muốn một điếu thuốc", không phải là bạn thực sự muốn.
+3.  **Đối đầu:** Nhắc nhở bản thân về những tác hại của thuốc lá đối với sức khỏe và quyết tâm bỏ thuốc của bạn. Nói với "Con Quỷ Thuốc Lá": "Tôi sẽ không bao giờ hút thuốc nữa. Tôi đã quyết định rồi."
+4.  **Quyết tâm:** Củng cố quyết định không bao giờ hút thuốc lá nữa.
+
+**Lời Khuyên Thêm:**
+
+* **Kiên nhẫn và nhất quán:** AV có thể rất dai dẳng, đặc biệt là trong giai đoạn đầu. Hãy kiên nhẫn và nhất quán trong việc áp dụng AVRT.
+* **Ghi nhật ký:** Viết nhật ký về những lần AV xuất hiện, cách bạn đối phó với nó, và cảm xúc của bạn có thể giúp bạn theo dõi tiến trình và nhận ra các mẫu hình.
+* **Đọc thêm về AVRT:** Đọc sách và các tài liệu khác về AVRT có thể giúp bạn hiểu sâu hơn về phương pháp này và cách áp dụng nó hiệu quả hơn. (Như bạn đã cung cấp thông tin từ *Rational Recovery*).
+* **Tìm hiểu về Rational Recovery:** Rational Recovery là tổ chức được thành lập bởi Jack Trimpey, cung cấp các nguồn tài liệu và hỗ trợ cho những người muốn áp dụng AVRT.
+
+Áp dụng AVRT đòi hỏi sự tỉnh táo và quyết tâm, nhưng nó là một công cụ mạnh mẽ giúp bạn kiểm soát cơn nghiện và xây dựng một cuộc sống lành mạnh hơn. Hãy nhớ rằng bạn có khả năng đưa ra lựa chọn và bạn hoàn toàn có thể chiến thắng "Tiếng Nói Gây Nghiện".
